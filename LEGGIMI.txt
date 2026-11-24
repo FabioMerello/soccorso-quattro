@@ -1,0 +1,4 @@
+1. Il numero (3891684222) è già impostato in script.js e negli href di index.html.
+2. Il link Facebook nel footer è una ricerca: sostituiscilo con l'URL reale della pagina (index.html, cerca "facebook.com").
+3. Carica i file su un repository GitHub e attiva GitHub Pages (Settings > Pages > branch main, cartella root).
+4. Sostituisci la foto Unsplash dell'hero con una foto reale dell'officina (style.css, .hero-img).
